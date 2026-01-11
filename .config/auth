@@ -3,7 +3,8 @@
     "CONFIG": "auth",
     "DEBUG": "true",
     "NVIDIA_TAG": "",
-    "ROOT": "core"
+    "ROOT": "core",
+    "UCORE_STREAM": "stable"
   },
   "containers": [
     "authelia",
