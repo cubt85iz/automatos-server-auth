@@ -2,6 +2,7 @@
   "arguments": {
     "CONFIG": "auth",
     "DEBUG": "true",
+    "FEDORA_VERSION": "44",
     "NVIDIA_TAG": "",
     "ROOT": "core",
     "UCORE_STREAM": "stable"
@@ -23,6 +24,7 @@
     "just",
     "kernel-modules-extra",
     "nano",
+    "nfs-utils",
     "pciutils",
     "podman",
     "rclone",
